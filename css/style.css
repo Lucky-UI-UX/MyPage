@@ -217,17 +217,16 @@ img{
   
 }
 
-/* Music image */
+/* Section-B Music image */
 
 .music-pic{
-  background: url(studio.jpg) no-repeat center center/cover;
+  /* background: url(studio.jpg) no-repeat center center/cover; */
   height: 80vh;
   position: relative;
   margin-top: 20px;
 }
 
-/* Music */
-
+/* Section-C Music */
 .section-c{
   height: 65vh;
 }
